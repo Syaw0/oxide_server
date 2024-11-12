@@ -1,0 +1,13 @@
+[package]
+name = "oxide_server"
+version = "0.1.0"
+edition = "2021"
+description = "Oxidize your server development with Rust"
+authors = ["Siavash Siamhb7@protonmail.com"]
+homepage = "https://crates.io/crates/oxide_server"
+repository = "https://github.com/Syaw0/oxide_server"
+license-file = "./LICENSE"
+keywords = ["server","http","https","httpserver","backend"]
+categories = ["backend","server","http","https", "http server"]
+
+[dependencies]
